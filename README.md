@@ -28,10 +28,10 @@ NOT: Eğer `client.ranks` kısmını doldurmazsanız bot hata verecektir!
 
 Komutlarda girili olan emojileri değiştirmeyi unutmayınız!
 
-Tada 🎉. Artık invite botun hazır. Dilediğin gibi kullanabilirsin.
+Tada 🎉. Artık stat botun hazır. Dilediğin gibi kullanabilirsin.
 
 # Görseller:
-<img src="https://cdn.discordapp.com/attachments/717686233027051612/816195201151270932/unknown.png">
+ <img src="https://media.discordapp.net/attachments/808365655564222515/819223064545460235/unknown.png">
 
 # İletişim
 * [Discord Sunucum](https://discord.gg/ZrnaFdN3RA)
