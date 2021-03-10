@@ -1,9 +1,10 @@
+# Daha gelişmişini almak için:
+# Crâwler#1943
+
 # Discord Yetkili Stat Bot
 # Discord XP
 # Discord Xp Botları
-# Satın almak için:
-# Crâwler#1943
-# Emperor#1943
+
 
 # Kurulum
 * İlk olarak bilgisayarına [Node JS](https://nodejs.org/en/) indir.
