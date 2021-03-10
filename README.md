@@ -15,7 +15,7 @@
 
 # Gerekli Ayarlar
 `config.json` dosyamıza gelerek botun kaç mesajda kaç coin vereceği gibi bilgileri ayarlıyoruz.
-Daha sonra `theark.js` dosyasına gelip, `client.ranks` kısmını;
+Daha sonra `emperor.js` dosyasına gelip, `client.ranks` kısmını;
 ```js
 client.ranks = [
 { role: "rol id", coin: 1 }
